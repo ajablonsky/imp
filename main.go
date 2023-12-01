@@ -11,5 +11,5 @@ func SayGoodbye() {
 }
 
 func printGoodBye() {
-	fmt.Println("Goodbye")
+	fmt.Println("Goodbye my Friend")
 }
